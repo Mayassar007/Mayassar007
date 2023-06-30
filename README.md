@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayassar007
+- 👋 Hi, My name is Md Mayassar
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Foundation Of Data Science
 
